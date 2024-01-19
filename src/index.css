@@ -1,0 +1,18 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.link{
+    cursor: pointer;
+    font-size:1.5rem;
+    font-weight:bold;
+}
+.register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:300px ;
+    padding-right:40px;
+}
